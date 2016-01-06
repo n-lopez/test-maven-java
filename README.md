@@ -7,4 +7,4 @@ Test maven java
 
 ======================
 
-A simple project 
+A simple project java
